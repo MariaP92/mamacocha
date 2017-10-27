@@ -43,18 +43,32 @@ p {
 .bg-primary {
   background-color: #F05F40 !important; }
 
+.imgAyo{
+  text-align: center;
+  
+}
+
 .bg-dark {
   color: white;
   background-color: #222222 !important; }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7); }
+  color: rgba(255, 255, 255, 0.7); 
+  text-align: justify;
+}
 
 section {
   padding: 100px 0; }
 
 .section-heading {
-  margin-top: 0; }
+  margin-top: 50px;
+}
+.section-headingImg{
+  margin-top: 70px;
+}
+.section-headingImg1{
+  margin-top: 90px; 
+}
 
 ::-moz-selection {
   color: white;
