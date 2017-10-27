@@ -56,6 +56,9 @@ p {
   color: rgba(255, 255, 255, 0.7); 
   text-align: justify;
 }
+.text-muted{
+  text-align: justify;
+}
 
 section {
   padding: 100px 0; }
